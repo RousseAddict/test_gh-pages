@@ -10,7 +10,7 @@ layout: default
 
 #### INTRODUCTION
 
-Write it in markdown in <code>index.md</code> and get a beautifully published piece in HTML. [^1]
+[](#2)Write it in markdown in <code>index.md</code> and get a beautifully published piece in HTML. [^1]
 
 
 #### LITERATURE SURVEY
